@@ -6,7 +6,8 @@ Training-free | Adaptive reasoning | Efficient inference
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![vLLM](https://img.shields.io/badge/Inference-vLLM-6f42c1.svg)](https://github.com/vllm-project/vllm)
-![Method](https://img.shields.io/badge/Method-Training--Free-brightgreen.svg)
+[![Method](https://img.shields.io/badge/Method-Training--Free-brightgreen.svg)](https://arxiv.org/abs/2608.27963)
+[![Paper](https://img.shields.io/badge/Paper-arXiv%3A2608.27963-b31b1b.svg)](https://arxiv.org/abs/2608.27963)
 
 </div>
 
@@ -190,3 +191,16 @@ Saber/
 
 If you find SABER useful for your research or projects, please consider giving this repository a star. It helps others discover the project and supports future updates.
 
+## 📖 Citation
+
+```bibtex
+@misc{cheng2026saberstabilityawareearlyexit,
+      title={SABER: Stability-Aware Early Exit for LLM Reasoning via Adversarial Branch Probing},
+      author={Wanli Cheng and Haiya Xiang and Juntao Li and Hongling Wang and Wenliang Chen},
+      year={2026},
+      eprint={2608.27963},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2608.27963},
+}
+```
